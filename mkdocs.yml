@@ -1,0 +1,8 @@
+site_name: Tastingz
+site_description: Tastin 'n' testin u know
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
